@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "726026750012",
+    "project_id": "harmonix-fa3c1",
+    "storage_bucket": "harmonix-fa3c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726026750012:android:0dd9ffba8b9a0f425e5b39",
+        "android_client_info": {
+          "package_name": "com.example.flutter_internship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726026750012-kf6n29uvjjeulfnodlj3afvislc03vb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_internship",
+            "certificate_hash": "d280c22f05049b44ea386da337bb3010451e3e07"
+          }
+        },
+        {
+          "client_id": "726026750012-vi91li0ehlipgkkckunt5nc7g99rf3b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ailLYm37k3y4m6dCDKfxzNjaMtKITr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726026750012-vi91li0ehlipgkkckunt5nc7g99rf3b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
